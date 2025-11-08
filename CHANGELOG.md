@@ -1,4 +1,5 @@
 # Asuna Changelog
+// todo: create versioning
 
 This file documents the major changes made in each version of Asuna.
 

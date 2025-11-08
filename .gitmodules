@@ -1,5 +1,5 @@
 [submodule "abdecor"]
-	path = mods/abdecor
+	path = mods/api/abdecor
 	url = https://github.com/asuna-mt/abdecor
 	branch = asuna
 [submodule "animalia"]
